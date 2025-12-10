@@ -2,6 +2,7 @@
 
 🔹 Weekly MATLAB Assignments
 Each assignment folder contains:
+
 MATLAB scripts/functions
 Outputs or plots (when required)
 A short summary or report
