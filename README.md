@@ -2,10 +2,9 @@
 
 🔹 Weekly MATLAB Assignments
 Each assignment folder contains:
-
-MATLAB scripts/functions
-Outputs or plots (when required)
-A short summary or report
+1)MATLAB scripts/functions
+2)Outputs or plots (when required)
+3)A short summary or report
 
 The assignments cover major computer vision topics:
 Image filtering & convolution
